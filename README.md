@@ -22,8 +22,7 @@ The dashboard transforms manufacturing data into meaningful insights through int
 - Power Pivot
 - PivotTables
 - PivotCharts
-- Excel Formulas
-- DAX
+- Excel Formulas 
 - Slicers
 
 ## 📊 Dashboard Preview
